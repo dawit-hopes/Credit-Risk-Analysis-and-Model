@@ -1,6 +1,6 @@
 ## Credit-Risk-Analysis-and-Model
 
-Welcome to the Week 5 project of the **10 Academy Artificial Intelligence Mastery Program**! In this project, we are tasked with building, deploying, and automating a **credit scoring model** using customer transaction data from a partner eCommerce platform. This model will help our client, **Bati Bank**, evaluate customer creditworthiness and enable **buy-now-pay-later (BNPL)** services.
+In this project, we are tasked with building, deploying, and automating a **credit scoring model** using customer transaction data from a partner eCommerce platform. This model will help our client, **Bati Bank**, evaluate customer creditworthiness and enable **buy-now-pay-later (BNPL)** services.
 
 ---
 
